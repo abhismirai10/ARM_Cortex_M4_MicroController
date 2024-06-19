@@ -67,6 +67,11 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 - **Code File:** `a3_LED_blink_on_button`
 - **Description:** This code will implement a delay function, using which we will blink the LED periodically.
 
+### 4. Practical Application
+- **Code File:** `a4_Heart _piece_maker`
+- **Description:** we can generate a periodic heartbeat using the delay function.
+
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
