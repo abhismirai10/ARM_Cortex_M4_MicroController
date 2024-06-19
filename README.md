@@ -69,8 +69,11 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 
 ### 4. Practical Application
 - **Code File:** `a4_Heart _piece_maker`
-- **Description:** we can generate a periodic heartbeat using the delay function.
+- **Description:** We can generate a periodic heartbeat using the delay function.
 
+### 5. Blinking LED using External Circuits
+- **Code File:** `a5_LED_blink_portE`
+- **Description:** Using External LED and Push Button.
 
 ## Contributing
 
