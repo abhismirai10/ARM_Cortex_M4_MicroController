@@ -75,6 +75,10 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 - **Code File:** `a5_LED_blink_portE`
 - **Description:** Using External LED and Push Button.
 
+### 5. delay function using built-in clock
+- **Code File:** `a6_delay_using_systick_timer`
+- **Description:** Up until now we have been using a kind of hack for delay now we will use a system clock for the delay.
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
