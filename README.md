@@ -68,18 +68,22 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 ### 3. Blinking LED
 - **Code File:** `a3_LED_blink_on_button`
 - **Description:** This code will implement a delay function, using which we will blink the LED periodically.
+- [Video](https://youtu.be/_e20fkPInfk)
 
 ### 4. Practical Application
 - **Code File:** `a4_Heart _piece_maker`
 - **Description:** We can generate a periodic heartbeat using the delay function.
+- [Video](https://youtu.be/jsTTCv8WGcw)
 
 ### 5. Blinking LED using External Circuits
 - **Code File:** `a5_LED_blink_portE`
 - **Description:** Using External LED and Push Button.
+- [Video](https://youtu.be/RJPthKYKAvI)
 
-### 5. delay function using built-in clock
+### 6. delay function using built-in clock
 - **Code File:** `a6_delay_using_systick_timer`
 - **Description:** Up until now we have been using a kind of hack for delay now we will use a system clock for the delay.
+- [Video](https://youtu.be/pgsQGlkQow4)
 
 ## Contributing
 
