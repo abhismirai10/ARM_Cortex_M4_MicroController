@@ -58,10 +58,12 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 ### 1. Simple LED on/off
 - **Code File:** `a1_LED_with_button`
 - **Description:** This code will turn on/off the LED (port F 1/2/3) using the button (port F 0/4).
+- [Video](https://youtu.be/uZM3S-P_QH0)
 
 ### 2. Different LEDs at the same time
 - **Code File:** `a2_Color_LED_with_button`
 - **Description:** Same as before but this time using 3 different color LEDs with two buttons.
+- [Video](https://youtu.be/-cigAuxJvFA)
 
 ### 3. Blinking LED
 - **Code File:** `a3_LED_blink_on_button`
