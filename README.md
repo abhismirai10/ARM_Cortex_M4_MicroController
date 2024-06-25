@@ -80,10 +80,15 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 - **Description:** Using External LED and Push Button.
 - [Video](https://youtu.be/RJPthKYKAvI)
 
-### 6. delay function using built-in clock
+### 6. Delay function using a built-in clock
 - **Code File:** `a6_delay_using_systick_timer`
 - **Description:** Up until now we have been using a kind of hack for delay now we will use a system clock for the delay.
 - [Video](https://youtu.be/pgsQGlkQow4)
+
+### 7. Changing the frequency of the clock using the onboard second clock
+- **Code File:** `a7_changing_hz_of_timer`
+- **Description:** There are two clocks in this launch pad, to use the second one we need to configure it, and that way
+                   we can use the clock in the frequency range of 3MHz to 80Mhz for precise timing.
 
 ## Contributing
 
