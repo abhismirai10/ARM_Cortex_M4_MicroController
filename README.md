@@ -90,6 +90,11 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 - **Description:** There are two clocks in this launch pad, to use the second one we need to configure it, and that way
                    we can use the clock in the frequency range of 3MHz to 80Mhz for precise timing.
 
+### 8. Controlling the Direction of the DC motor's rotation using the Push button
+- **Code File:** `a8_DC_Motor_Control_using_L293D`
+- **Description:** Controlling the direction of the dc motor
+- [Video](https://youtu.be/7iFsb9ENQj0)
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
