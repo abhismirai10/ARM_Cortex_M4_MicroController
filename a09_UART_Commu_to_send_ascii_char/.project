@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>a09_Serial_Commu_to_send_ascii_char</name>
+	<name>a09_UART_Commu_to_send_ascii_char</name>
 	<comment></comment>
 	<projects>
 	</projects>
