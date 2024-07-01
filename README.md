@@ -95,6 +95,11 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 - **Description:** Controlling the direction of the dc motor
 - [Video](https://youtu.be/7iFsb9ENQj0)
 
+### 9. Sending the Ascii characters via UART communication
+- **Code File:** `a09_UART_Commu_to_send_ascii_char`
+- **Description:** Using UART0 on portC to communicate via UART a serial commu. protocol, here i am monitoring the data via oscilloscope
+- [Video](https://youtu.be/B_e1Zu_2wYs?si=y7zaa07DqUy2mtpz)
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
