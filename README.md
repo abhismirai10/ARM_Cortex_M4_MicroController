@@ -97,7 +97,7 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 
 ### 9. Sending the Ascii characters via UART communication
 - **Code File:** `a09_UART_Commu_to_send_ascii_char`
-- **Description:** Using UART0 on portC to communicate via UART a serial commu. protocol, here i am monitoring the data via oscilloscope
+- **Description:** Using UART0 on portC to communicate via UART a serial commu. protocol, here I am monitoring the data via an oscilloscope
 - [Video](https://youtu.be/B_e1Zu_2wYs?si=y7zaa07DqUy2mtpz)
 
 ## Contributing
