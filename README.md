@@ -33,7 +33,7 @@ The TIVA LaunchPAD features an ARM Cortex-M4 microcontroller named TM4C123GH6PM.
 ### Prerequisites
 
 - **Hardware:**
-  - TM4C123GH6PM TIVA LaunchPAD
+  - TM4C123GH6PM TIVA LaunchPAD.
   - LEDs, resistors, servo motors, and other components as required by each example.
 - **Software:**
   - Texas Instruments Code Composer Studio (CCS)
