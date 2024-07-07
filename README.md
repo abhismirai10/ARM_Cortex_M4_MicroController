@@ -100,6 +100,11 @@ I am using C/C++ for coding this microcontroller, but you can use assembly as we
 - **Description:** Using UART0 on portC to communicate via UART a serial commu. protocol, here I am monitoring the data via an oscilloscope
 - [Video](https://youtu.be/B_e1Zu_2wYs?si=y7zaa07DqUy2mtpz)
 
+### 10. Sending the Ascii characters via UART communication
+- **Code File:** `a10_UART_Commu_Sending_Data
+- **Description:** Using UART0 on portC to communicate via UART a serial commu. protocol, here I am printing to the monitor
+- [Video](https://youtu.be/w4y-p872lTk)
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any enhancements or bug fixes.
